@@ -11,4 +11,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaPodmarkova&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JuliaPodmarkova)](https://github.com/anuraghazra/github-readme-stats)
