@@ -9,7 +9,7 @@
 
 ## About me ✌️✌️✌️
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuliaPodmarkova&show_icons=true&theme=gruvbox)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaPodmarkova&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
-
+<div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
+    <div style="display: inline-block;"><![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuliaPodmarkova&show_icons=true&theme=gruvbox)></div>
+   <div style="display: inline-block;"><[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaPodmarkova&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)></div>
+ </div>
