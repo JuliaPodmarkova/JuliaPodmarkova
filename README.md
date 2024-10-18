@@ -7,4 +7,4 @@
 <img src = "https://img.shields.io/badge/Py-Python-blue?logo=python&labelColor=red&color=%233776AB">
 <img src = "https://img.shields.io/badge/1C-1C%20language-green?style=for-the-badge&logo=1%20C&labelColor=yellow&color=%23FFFF00">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuliaPodmarkova&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuliaPodmarkova&show_icons=true&theme=gruvbox)
