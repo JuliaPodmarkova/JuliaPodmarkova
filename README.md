@@ -12,3 +12,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuliaPodmarkova&show_icons=true&theme=gruvbox)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaPodmarkova&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+
+## My BIO
+  Hi! My name is Julia. At one time, I graduated as a manager, worked in the banking sector and built a career there. I resigned from the position of head of the department, because I finally realized that I really want to develop my hobby, since I rest my soul while programming 😊
+  Since I was a teenager, I've been building PCs, creating websites in HTML, then on Tilda. I received a diploma of professional retraining "1C Developer", I also have a diploma of professional retraining "Developer of mobile games on Unity", a certificate of completion of courses on working with databases in SQL. I am currently studying at Urban University with a degree in Python Developer. 😇
+  I am also a happy mother of two small children (son and daughter) on parental leave.😁
