@@ -27,3 +27,5 @@
 ### 📫 Let's connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/julia-podmarkova-3317a9392)
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/JuliaPodmarkova)
+[![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram)](https://t.me/JuliatPY)
+[![imo](https://img.shields.io/badge/imo-yellow?logo=imo)](https://imo.im/JuliettePY) 
