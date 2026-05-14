@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi, I'm Julia Podmarkova 👋
 
-<img src = "[https://github.com/JuliaPodmarkova/JuliaPodmarkova/blob/main/8cf70b958d5c11efac4696fbc5f708e6.gif](https://github.com/JuliaPodmarkova/JuliaPodmarkova/blob/main/avatar.png)" alt = "The Unlimited">
+<img src = "[https://github.com/JuliaPodmarkova/JuliaPodmarkova/blob/main/avatar.png](https://github.com/JuliaPodmarkova/JuliaPodmarkova/blob/main/avatar.png)" alt = "The Unlimited">
 
 ## My tools 🙌
 <img src = "https://img.shields.io/badge/C%23-Unity-blue?logo=unity&labelColor=blue&color=%23FFFFFF">
@@ -13,7 +13,23 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaPodmarkova&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
-## My BIO
-  Hi! My name is Julia. At one time, I graduated as a manager, worked in the banking sector and built a career there. I resigned from the position of head of the department, because I finally realized that I really want to develop my hobby, since I rest my soul while programming 😊
-  Since I was a teenager, I've been building PCs, creating websites in HTML, then on Tilda. I received a diploma of professional retraining "1C Developer", I also have a diploma of professional retraining "Developer of mobile games on Unity", a certificate of completion of courses on working with databases in SQL. I am currently studying at Urban University with a degree in Python Developer. 😇
-  I am also a happy mother of two small children (son and daughter) on parental leave.😁
+
+
+**Technical Project Manager | Python Developer | ex-Sberbank Head of Department**
+
+👩‍💻 I build bridges between business goals and engineering teams.  
+🐍 I speak Python (Django, DRF, PostgreSQL) as fluently as I speak management.  
+🚀 My project: [**TeamPulse**](https://github.com/JuliaPodmarkova/TeamPulse) – an internal tool for sprint management, onboarding, and team analytics.
+
+### 💡 What I bring
+- 10+ years managing teams (up to 15 people) at Sberbank  
+- Proven track record: reduced operational errors from 50% to 3%, grew NPS from 7 to 10  
+- Strong technical background: Python/Django, Docker, PostgreSQL, CI/CD  
+- Built and deployed TeamPulse from scratch as a full-stack PM+Developer  
+
+### 🛠️ Tech Stack
+`Python` `Django` `DRF` `PostgreSQL` `Docker` `GitHub Actions` `Swagger` `Redis` `1C` `Unity`
+
+### 📫 Let's connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/julia-podmarkova-3317a9392)
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/JuliaPodmarkova)
