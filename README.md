@@ -1,6 +1,6 @@
 ## Hi, I'm Julia Podmarkova 👋
 
-<img src = "https://github.com/JuliaPodmarkova/JuliaPodmarkova/blob/main/avatar.png" alt = "The Unlimited">
+<img src = "https://github.com/JuliaPodmarkova/JuliaPodmarkova/blob/main/PhotoWithArguments.png" alt = "The Unlimited">
 
 ## My tools 🙌
 <img src = "https://img.shields.io/badge/C%23-Unity-blue?logo=unity&labelColor=blue&color=%23FFFFFF">
